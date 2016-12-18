@@ -162,7 +162,7 @@ extern "C" unsigned int GetSubModules (char ***names)
   return 0;
 }
 
-extern "C" void ADDON_Stop()
+extern "C" void Stop()
 {
   return;
 }
