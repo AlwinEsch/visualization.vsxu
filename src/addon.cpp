@@ -2,7 +2,7 @@
 #define __cdecl
 #endif
 
-#include <kodi/visualization/Visualization.h>
+#include <kodi/addon-instance/Visualization.h>
 #include <kodi/General.h>
 
 #include <vsx_version.h>
